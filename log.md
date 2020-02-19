@@ -8,6 +8,15 @@
 
 **Link to work:** [Survive The Grid](https://survive-the-grid.firebaseapp.com/)
 
+
+### Day 1: February 18, 2020
+
+**Today's Progress**: Fixed my very out of date portfolio. Found out there were several bugs in my links on previous commits.
+
+**Thoughts:** I struggled just starting coding today. Without the direction of my now over bootcamp, it's hard to figure out where to focus my energy. It's hard to have direction with no new homework assignment or project to complete.
+
+**Link to work:** [Jake's Portfolio](https://www.jakeotoole.com/)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
