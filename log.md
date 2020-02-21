@@ -17,6 +17,22 @@
 
 **Link to work:** [Jake's Portfolio](https://www.jakeotoole.com/)
 
+### Day 2: February 19, 2020
+
+**Today's Progress**: Forgot to code while panicking about finding a job. Rough start to the 100 day challenge.
+
+**Thoughts:** Apparently wasn't thinking "Oh, I need to code today."
+
+**Link to work:** None completed :(
+
+### Day 3: February 20, 2020
+
+**Today's Progress**: Cracked open an old project from my boot camp and started fixing some features that were never completed. Got the subscriber page to start adding new subscribers to the database.
+
+**Thoughts:** It's always a little rough to jump back to a tech you haven't worked on in a while, but it was good to dust off the rust. I've been using Cloud FireStore lately, which doesn't really have a backend, so going back to a backend was definitely interesting.
+
+**Link to work:**  [Keep-It-Code] https://keep-it-code.herokuapp.com/
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
