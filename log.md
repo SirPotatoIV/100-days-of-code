@@ -33,6 +33,15 @@
 
 **Link to work:**  [Keep-It-Code] https://keep-it-code.herokuapp.com/
 
+### Day 4: February 21, 2020
+
+**Today's Progress**: Didn't really meet the criteria today. Help a local politician help update their Weedbly and applied for a full-time job.
+
+**Thoughts:** Really need to start doing my minimum hour of coding in the morning before almost anything else. Leaving it until the end of the day is dangerous.
+
+**Link to work:**  There isn't any really.
+
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
