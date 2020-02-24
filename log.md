@@ -8,7 +8,6 @@
 
 **Link to work:** [Survive The Grid](https://survive-the-grid.firebaseapp.com/)
 
-
 ### Day 1: February 18, 2020
 
 **Today's Progress**: Fixed my very out of date portfolio. Found out there were several bugs in my links on previous commits.
@@ -31,7 +30,7 @@
 
 **Thoughts:** It's always a little rough to jump back to a tech you haven't worked on in a while, but it was good to dust off the rust. I've been using Cloud FireStore lately, which doesn't really have a backend, so going back to a backend was definitely interesting.
 
-**Link to work:**  [Keep-It-Code] https://keep-it-code.herokuapp.com/
+**Link to work:** [Keep-It-Code] https://keep-it-code.herokuapp.com/
 
 ### Day 4: February 21, 2020
 
@@ -39,8 +38,31 @@
 
 **Thoughts:** Really need to start doing my minimum hour of coding in the morning before almost anything else. Leaving it until the end of the day is dangerous.
 
-**Link to work:**  There isn't any really.
+**Link to work:** There isn't any really.
 
+### Day 5: February 22, 2020
+
+**Today's Progress**: Not a whole lot done. Started creating a new React App that will be my portfolio remade as a React App
+
+**Thoughts:** Didn't get a whole lot done. Bounced around too much instead of just locking in my focus and hammering away at some code.
+
+**Link to work:** There isn't any really.
+
+### Day 4: February 23, 2020
+
+**Today's Progress**: https://github.com/SirPotatoIV/portfolio-react
+
+**Thoughts:** Still struggling with getting started. Spent the day cleaning the house instead of coding. Tried to start at like 10:00 PM, but realized that is a horrible way to handle this. Definitely need to stick with the original lesson learned that I should be doing this first thing in the morning.
+
+**Link to work:** There isn't any really.
+
+### Day 4: February 24, 2020
+
+**Today's Progress**: Set up Prettier in VS Code, started using yarn over npm, created a new react app to follow along with the Frontend Master's Course "Firebase with React".
+
+**Thoughts:** Still struggling with getting started. This shouldn't be hard. I love to code. I think I'm just overwhelmed with what to work on. Apply for jobs? Contact people to work for? Watch a tutorial?
+
+**Link to work:** https://github.com/SirPotatoIV/fe-masters-firebase-with-react
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
